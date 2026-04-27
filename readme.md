@@ -61,6 +61,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Helio] - Libre music composition software.
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
+- [Lovely Composer] - Chiptune music creation tool inspired by Mario Paint.
 - [Meadowlark] - Open-source, cross platform DAW.
 - [MilkyTracker] - Open source, multi-platform music application
     in the tradition of Fasttracker II.
@@ -74,6 +75,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Rytmik Studio] - Music creation software.
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
 - [Studio One Pro] - Complete DAW and live show sequencing.
+- [SunVox] - Small, fast, modular synthesizer with a pattern-based tracker.
 - [TuneFlow] - Free, AI-powered DAW that provides lyrics/music generation, stem separation, MIDI transcription, as well as full editing and mixing capabilities.
 - [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Zrythm] - Cross-platform DAW.
@@ -93,6 +95,7 @@ A curated list of software, hardware, and other resources to create music.
 [Helio]: https://helio.fm/
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://www.apple.com/logic-pro/
+[Lovely Composer]: https://1oogames.itch.io/lovely-composer
 [Meadowlark]: https://github.com/MeadowlarkDAW
 [MilkyTracker]: https://milkytracker.org/
 [Mixcraft]: https://acoustica.com/products/mixcraft
@@ -105,6 +108,7 @@ A curated list of software, hardware, and other resources to create music.
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 [Stargate DAW]: https://github.com/stargatedaw/stargate
 [Studio One Pro]: https://www.presonus.com/pages/studio-one-pro
+[SunVox]: https://nightradio.itch.io/sunvox
 [TuneFlow]: https://tuneflow.com
 [Waveform Pro]: https://www.tracktion.com/products/waveform-pro
 [Zrythm]: https://www.zrythm.org
@@ -266,10 +270,13 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Fluctus] - Simple 3-operator FM synthesizer.
 - [Helm] - GPL licensed polyphonic synth with lots of modulation.
 - [Integrate] - Old-school virtual analog synthesizer.
+- [Mika Micro] - Free, open-source subtractive synthesizer VST.
 - [NSynth Super] - Open source AI synth from the Google Magenta team.
 - [OpenUtau] - Open source vocals synthesis platform.
 - [Regency] - Multi-tiered phase distortion system.
 - [SAW] - A simple synthesizer with a clean UI and straightforward functionality.
+- [Soraboy VST] - Free Game Boy-style chiptune VST3 synth.
+- [Substation for VCV Rack] - Polyrhythmic, subharmonic synthesis toolkit for [VCV Rack].
 - [Surge Synthesizer] - Open source digital synthesizer.
 - [Yoshimi] - Software audio synthesizer.
 
@@ -278,16 +285,20 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Apricot]: https://nakst.gitlab.io/apricot/
 [Fluctus]: https://nakst.gitlab.io/fluctus/
 [Helm]: https://tytel.org/helm/
+[Mika Micro]: https://tesselode.itch.io/mika-micro
 [NSynth Super]: https://experiments.withgoogle.com/nsynth-super
 [OpenUtau]: https://www.openutau.com
 [Regency]: https://nakst.gitlab.io/regency/
 [SAW]: https://handmade.network/p/432/saw
+[Soraboy VST]: https://shadowsora211.itch.io/soraboy
+[Substation for VCV Rack]: https://slimechildaudio.itch.io/substation
 [Surge Synthesizer]:  https://surge-synthesizer.github.io
 [Yoshimi]: https://yoshimi.github.io/
 
 
 ### Apps
 
+- [1BITDRAGON] - Easy, approachable music creation tool with 200+ instruments and drum samples.
 - [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators.
 - [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key.
@@ -299,6 +310,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
 - [FreeEQ8] - Free, open-source 8-band parametric EQ plugin (VST3/AU) for macOS and Windows.
+- [Graillon] - Vocal pitch correction, formant shifting, and live voice changing plugin (VST3/AU/AAX/LV2).
 - [Grip] - Hands-free voice & remote control for Ableton Live workflow.
 - [IXI Programs] - Apps for creating musical instruments and environments.
 - [JJazzLab] - Easily generate dynamic backing tracks for any song.
@@ -310,6 +322,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
 - [MIDI Tapper] - Shape music performances with multi-touch gestures.
 - [Midica] - Music programming language and desktop app for MIDI generation.
+- [Nimble Kick] - Sampler plugin specialized for pitching hardstyle kicks (VST3/AU).
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
 - [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios.
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
@@ -319,10 +332,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
+- [SpectralHarp] - Strum the sound spectrum to create strange sounds (VST3/AU/standalone).
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music.
 - [Ultimate Vocal Remover] - AI-powered vocal remover.
 
+[1BITDRAGON]: https://1bitdragon.itch.io/1bitdragon
 [Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
 [Captain Plugins]: https://mixedinkey.com/captain-plugins/
@@ -332,6 +347,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/documentation/fluajho/english.html
 [FreeEQ8]: https://github.com/GareBear99/FreeEQ8
+[Graillon]: https://auburnsounds.itch.io/graillon
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
 [Grip]: https://www.gripforlive.com/
 [JJazzLab]: https://www.jjazzlab.org/en/
@@ -343,6 +359,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Melodics]: https://melodics.com
 [MIDI Tapper]: https://hpi.zentral.zone/miditapper
 [Midica]: http://www.midica.org
+[Nimble Kick]: https://nimble.itch.io/kick
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
 [Orb Producer Suite]: https://www.orbplugins.com/orb-producer-suite/
 [Ossia Score]: https://ossia.io
@@ -352,6 +369,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: https://filter24.org/seq24/
 [Sonic Visualiser]: https://sonicvisualiser.org
+[SpectralHarp]: https://damikyu.itch.io/spectralharp
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
 [Ultimate Vocal Remover]: https://ultimatevocalremover.com/
@@ -373,6 +391,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Chords] - Text based chord progression editor.
 - [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
 - [Circle of 5ths Explorer]
+- [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
@@ -388,6 +407,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
+- [Pata Tracker] - Browser-based chiptune tracker with PSG, FM, and sampler synthesis.
 - [Piano Genie] - Machine learning augmented piano app.
 - [Polska Metronome] - Metronome with irregular beats for Scandinavian folk music.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
@@ -407,6 +427,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [TimeStretch] - Online tool to loop, speed up, slow down, and pitch shift sections of an audio file.
 - [ToneBasic] - Programmatic sound generation in the browser.
 - [Tap Tempo] - Free Tap BPM tool that actually syncs with your hardware (Web MIDI).
+- [Web Theremin] - Browser-based theremin instrument.
 - [Websynths] - Free browser-based microtonal midi instrument.
 
 [108]: https://martinwecke.de/108/
@@ -424,6 +445,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Chorushive]: https://chorushive.com
 [Circle of 5ths Explorer]:
     https://frazierpianostudio.com/resources/circle-of-fifths-explorer/
+[Davidic]: https://bendious.itch.io/davidic
 [Djenerator]: http://djen.co
 [Frequency Explorer]: https://github.com/ellapollack/frex
 [Funklet]: http://funklet.com
@@ -439,6 +461,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
+[Pata Tracker]: https://pixwlk.itch.io/pata-tracker
 [Piano Genie]: https://piano-genie.glitch.me
 [Polska Metronome]: https://github.com/newlandsvalley/polska-metronome
 [QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
@@ -458,6 +481,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [TimeStretch]: https://29a.ch/timestretch/
 [ToneBasic]: https://tonebasic--enchanter.repl.co/
 [Tap Tempo]: https://tapbpmhub.com/
+[Web Theremin]: https://hat-and-beard.itch.io/web-theremin
 [Websynths]: http://websynths.com
 
 
