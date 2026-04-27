@@ -50,7 +50,9 @@ A curated list of software, hardware, and other resources to create music.
 - [ACID] - A DAW known for its loop-based music creation.
 - [Ardour]
 - [Bitwig]
+- [Cakewalk] - Free, full-featured DAW by BandLab for Windows.
 - [Cubase]
+- [Digital Performer] - DAW with deep MIDI editing and notation by MOTU.
 - [FamiStudio] - Simple music editor for the Nintendo Entertainment System.
 - [FL Studio] - A complete software music production environment.
 - [Garage Band]
@@ -60,10 +62,13 @@ A curated list of software, hardware, and other resources to create music.
 - [LMMS] - Comprehensive open source, cross platform DAW.
 - [Logic Pro X]
 - [Meadowlark] - Open-source, cross platform DAW.
+- [MilkyTracker] - Open source, multi-platform music application
+    in the tradition of Fasttracker II.
 - [Mixcraft] - DAW software for Windows.
 - [Pro Tools]
 - [Radium] - Tracker-like music editor with additional GUI controls.
 - [Reaper] - Complete digital audio production app for Windows and macOS.
+- [Reason] - DAW with a rack of virtual instruments and effects emulating real hardware.
 - [Remixlive] - A dynamic music creation tool that lets you play loops and sounds.
 - [Renoise] - Complete, multi-platform DAW with a music-tracker based approach.
 - [Rytmik Studio] - Music creation software.
@@ -77,7 +82,9 @@ A curated list of software, hardware, and other resources to create music.
 [ACID]: https://www.magix.com/us/music-editing/acid/
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
+[Cakewalk]: https://www.bandlab.com/products/cakewalk
 [Cubase]: http://steinberg.net/en/products/cubase
+[Digital Performer]: https://www.motu.com/products/software/dp
 [FamiStudio]: https://bleubleu.itch.io/famistudio
 [FL Studio]: https://www.image-line.com/fl-studio/
 [Garage Band]: https://apple.com/mac/garageband
@@ -87,10 +94,12 @@ A curated list of software, hardware, and other resources to create music.
 [LMMS]: https://lmms.io/
 [Logic Pro X]: https://www.apple.com/logic-pro/
 [Meadowlark]: https://github.com/MeadowlarkDAW
+[MilkyTracker]: https://milkytracker.org/
 [Mixcraft]: https://acoustica.com/products/mixcraft
 [Pro Tools]: https://www.avid.com/pro-tools
 [Radium]: https://github.com/kmatheussen/radium
 [Reaper]: http://reaper.fm
+[Reason]: https://www.reasonstudios.com/
 [Remixlive]: https://www.mixvibes.com/remixlive
 [Renoise]: https://www.renoise.com
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
@@ -281,6 +290,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators.
+- [Captain Plugins] - Suite of plugins for chord progressions, melodies, basslines, and beats by Mixed In Key.
 - [ChipTone] - Free tool for generating sound effects.
 - [Claude AI Music Skills] - Claude Code plugin for AI-assisted album production
   including lyrics, style prompts, per-stem mixing, mastering,
@@ -301,6 +311,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [MIDI Tapper] - Shape music performances with multi-touch gestures.
 - [Midica] - Music programming language and desktop app for MIDI generation.
 - [Ninjas 2] - Sample slicer audio plugin and standalone app.
+- [Orb Producer Suite] - Suite of AI-assisted plugins for generating melodies, basslines, chords, and arpeggios.
 - [Ossia Score] - Sequencer for audio-visual and interactive shows.
 - [Patroneo] - Simple pattern based midi sequencer.
 - [Polyphone] - A soundfont editor for quickly designing musical instruments.
@@ -314,6 +325,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 [Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
+[Captain Plugins]: https://mixedinkey.com/captain-plugins/
 [ChipTone]: https://sfbgames.itch.io/chiptone
 [Claude AI Music Skills]: https://github.com/bitwize-music-studio/claude-ai-music-skills
 [Composer's Sketchpad]: http://composerssketchpad.com
@@ -332,6 +344,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [MIDI Tapper]: https://hpi.zentral.zone/miditapper
 [Midica]: http://www.midica.org
 [Ninjas 2]: https://github.com/clearly-broken-software/ninjas2
+[Orb Producer Suite]: https://www.orbplugins.com/orb-producer-suite/
 [Ossia Score]: https://ossia.io
 [Patroneo]: https://www.laborejo.org/patroneo/
 [Polyphone]: https://www.polyphone-soundfonts.com
@@ -363,6 +376,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
 - [Funklet] - Drum machine and library of famous drum patterns.
+- [Hookpad] - Songwriting tool from Hooktheory with chord, melody, and theory assistance built on the TheoryTab database.
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klank] - Sound and animation in the browser using PureScript.
@@ -413,6 +427,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Djenerator]: http://djen.co
 [Frequency Explorer]: https://github.com/ellapollack/frex
 [Funklet]: http://funklet.com
+[Hookpad]: https://www.hooktheory.com/hookpad
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: https://keithwhor.com/music/
 [Klank]: https://klank.dev/
@@ -739,6 +754,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     and a geometric interpretation of digital audio filters.
 - [Frazier Piano Studio] - Blog posts, videos, and apps.
 - [Know Your Theory] - Interactive tutorial to learn theory fundamentals.
+- [Lightnote] - Interactive site for learning the basics of music theory through animations and audio.
 - [Linux DAW] - Listing of open source audio software for Linux.
 - [Music Theory] - The exciting universe of music theory.
 - [muted.io] - Interactive music theory tools and visual references.
@@ -754,6 +770,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
     https://karlhiner.com/jupyter_notebooks/intro_to_digital_filters/
 [Frazier Piano Studio]: https://frazierpianostudio.com
 [Know Your Theory]: https://knowyourtheory.com
+[Lightnote]: https://www.lightnote.co/
 [Linux DAW]: https://linuxdaw.org/
 [Music Production Chips]: https://music-chips.com/
 [Music Theory]: https://ianring.com/musictheory/
@@ -769,6 +786,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Detecting piano notes with web audio][detect-notes]
 - [Learning Synths] - Learn the basics of using synthesizers.
 - [Modeling Music with algebraic data types][modeling-music]
+- [Music Theory for Nerds] - Concise overview of music theory aimed at programmers.
 - [Musimathics] - The mathematical foundations of music.
 - [Sound, Motion, Notation] - Information and Art.
 - [Terry Riley's "In C"] - A Journey Through a Musical Possibility Space.
@@ -782,6 +800,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [detect-notes]: https://hackernoon.com/a-web-audio-experiment-666743e16679
 [Learning Synths]: https://learningsynths.ableton.com/
 [modeling-music]: https://reasonablypolymorphic.com/blog/modeling-music/
+[Music Theory for Nerds]: https://eev.ee/blog/2016/09/15/music-theory-for-nerds/
 [Musimathics]: http://www.musimathics.com/
 [Sound, Motion, Notation]:
   https://nextjournal.com/schmudde/sound-motion-notation
