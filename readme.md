@@ -143,6 +143,7 @@ A curated list of software, hardware, and other resources to create music.
     with pitch detection algorithms
 - [Pop2Piano] - Pop audio-based piano cover generation.
 - [PureScript Ocarina] - Web-audio library for interactive media and games.
+- [PureScript School of Music] - PureScript port of the Haskell School of Music for polyphonic composition.
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
 - [Rust Music Theory] - A music theory guide written in Rust.
@@ -200,6 +201,7 @@ A curated list of software, hardware, and other resources to create music.
 [PitchFinder]: https://github.com/peterkhayes/pitchfinder
 [Pop2Piano]: https://sweetcocoa.github.io/pop2piano_samples/
 [PureScript Ocarina]: https://mikesol.github.io/purescript-ocarina/
+[PureScript School of Music]: https://github.com/newlandsvalley/purescript-school-of-music
 [React Music]: https://github.com/FormidableLabs/react-music
 [React]: https://react.dev/
 [Repitch]: https://github.com/ellapollack/repitch
@@ -345,6 +347,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### Webapps
 
 - [108] - Minimal beat machine.
+- [ABC Tutorial] - Learn ABC notation through an interactive tutorial.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
@@ -353,6 +356,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [beatboxer] - Simple drum machine.
 - [Binary Synth] - Binary file interpreter for audio synthesis.
 - [BlokDust] - Interactive music-making app to build synths and sounds.
+- [Chord Editor] - Edit chord diagrams for guitar, ukulele, and other fretted instruments.
 - [Chords] - Text based chord progression editor.
 - [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
 - [Circle of 5ths Explorer]
@@ -371,12 +375,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [MyNoise] - Background noises and interactive soundscapes.
 - [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Piano Genie] - Machine learning augmented piano app.
+- [Polska Metronome] - Metronome with irregular beats for Scandinavian folk music.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
 - [Reactor] - Online DJ controller connected to SoundCloud.
 - [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
 - [Roland 50 Studio] - Online playground with emulations of classic Roland devices.
 - [Scale Explorer] - Visual scale explorer.
+- [Share a Tune] - Play polyphonic ABC scores in the browser and share them.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
@@ -390,6 +396,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Websynths] - Free browser-based microtonal midi instrument.
 
 [108]: https://martinwecke.de/108/
+[ABC Tutorial]: https://github.com/newlandsvalley/purescript-abc-tutorial
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: http://arpeggiator.desandro.com
 [Audio Motion Interface]: https://github.com/MaxAlyokhin/audio-motion-interface
@@ -398,6 +405,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [beatboxer]: https://sig.gy/beatboxer/
 [Binary Synth]: https://github.com/MaxAlyokhin/binary-synth
 [BlokDust]: https://blokdust.com
+[Chord Editor]: https://github.com/newlandsvalley/chord-editor
 [Chords]: https://github.com/evashort/chords
 [Chorushive]: https://chorushive.com
 [Circle of 5ths Explorer]:
@@ -417,12 +425,14 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [MyNoise]: https://mynoise.net/
 [Opusonix]: https://opusonix.com
 [Piano Genie]: https://piano-genie.glitch.me
+[Polska Metronome]: https://github.com/newlandsvalley/polska-metronome
 [QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
 [Qwerkey]: http://some1else.github.io/qwerkey
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
 [Roland 50 Studio]: https://roland50.studio
 [Scale Explorer]: https://frazierpianostudio.com/resources/scale-explorer/
+[Share a Tune]: https://github.com/newlandsvalley/share-a-tune
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
