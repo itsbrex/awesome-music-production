@@ -1,0 +1,20 @@
+max_redirects = 0
+require_https = true
+
+# These hosts block automated link checkers but work in browsers,
+# or have certificate issues that don't affect real users.
+exclude = [
+  "^https?://[^/]*itch\\.io/",
+  "^https?://[^/]*\\.itch\\.io/",
+  "^https?://codepen\\.io/",
+  "^https?://distrokid\\.com/",
+  "^https?://www\\.distrokid\\.com/",
+  "^https?://www\\.premiumbeat\\.com/",
+  "^https?://www\\.avid\\.com/pro-tools",
+  "^https?://www\\.fender\\.com/pages/fender-studio-pro",
+  "^https?://laborejo\\.org/",
+  "^https?://www\\.laborejo\\.org/",
+  "^https?://www\\.dodekamusic\\.com/",
+  "^https?://sensel\\.com/",
+  "^https?://doi\\.org/10\\.1162/",
+]
