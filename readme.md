@@ -656,9 +656,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### MIDI Controllers
 
 - [Artiphon] - Guitar like MPE controller.
+- [ATEMP MB1] - Button accordion-shaped MIDI controller with DIN-5 and USB MIDI output.
 - [Bela] - Computing platform for creating responsive interactive applications.
 - [C-Thru Music Axis] - Hexagonal and harmonic table based controller.
 - [Continuum Fingerboard] - Linear piano like MPE playing surface.
+- [Digital Accordina] - Compact solo electronic wind instrument and MIDI controller with breath control and onboard effects.
+- [Digital Flex Accordion] - Portable digital accordion with dual keyboards, breath control, and onboard sounds.
 - [DIY Controller] - DIY midi controller with simple buttons.
 - [Dodeka Stellar] - Linear and isomorphic MIDI keyboard.
 - [dualo du-touch] - Accordion like controller with hexagonal pads.
@@ -668,6 +671,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Joué] - Expressive and modular MPE controller.
 - [LinnStrument] - Grid based expressive [MPE] controller.
 - [Lumatone] - Hexagonal isomorphic keyboard.
+- [MIDI Button Keyboard] - 5-row chromatic button accordion-style MIDI controller with built-in sounds and speakers.
 - [MIDILodica] - Breath-controlled, 3D printed, open-source MIDI device.
 - [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
@@ -682,9 +686,12 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
 
 [Artiphon]: https://www.artiphon.com/
+[ATEMP MB1]: https://atemp.ru/en/products/atemp_mb1.html
 [Bela]: https://bela.io
 [C-Thru Music Axis]: https://c-thru-music.com/cgi/index.cgi
 [Continuum Fingerboard]: https://www.hakenaudio.com/
+[Digital Accordina]: https://www.midiaccordion.com/accordina/
+[Digital Flex Accordion]: https://www.midiaccordion.com/flex/
 [DIY Controller]: https://hackaday.com/2019/07/15/getting-midi-under-control/
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
 [dualo du-touch]: https://dualo.com/
@@ -694,6 +701,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Joué]: https://jouemusic.com/
 [LinnStrument]: https://www.rogerlinndesign.com/linnstrument
 [Lumatone]: https://www.lumatone.io
+[MIDI Button Keyboard]: https://www.midiaccordion.com/midikb_rev2/
 [MIDILodica]: https://github.com/XavierGerD/MIDILodica
 [Mimu Gloves]: https://mimugloves.com
 [Morph]: https://sensel.com/pages/the-sensel-morph
