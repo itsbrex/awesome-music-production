@@ -379,6 +379,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 - [108] - Minimal beat machine.
 - [ABC Tutorial] - Learn ABC notation through an interactive tutorial.
+- [Accordion] - Play a button accordion using your computer keyboard.
 - [AI Duet] - A smart piano that responds to you.
 - [Arpeggiator] - Web Audio Arpeggiator.
 - [Audio Motion Interface] - Use smartphone motions to control a synthesizer.
@@ -430,6 +431,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 [108]: https://martinwecke.de/108/
 [ABC Tutorial]: https://github.com/newlandsvalley/purescript-abc-tutorial
+[Accordion]: https://github.com/taniarascia/accordion
 [AI Duet]: https://experiments.withgoogle.com/ai-duet
 [Arpeggiator]: https://arpeggiator.desandro.com/
 [Audio Motion Interface]: https://github.com/MaxAlyokhin/audio-motion-interface
