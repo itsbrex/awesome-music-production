@@ -681,6 +681,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [QuNexus] - Small and portable MPE keyboard.
+- [RokoTMIDI] - Minimal button accordion MIDI controller with USB-C, DIN MIDI, and Bluetooth.
 - [ROLI Blocks] - Portable snap-together MIDI controller with both desktop and mobile interfaces.
 - [Striso] - Expressive MPE controller with a grid-based layout.
 - [XVI Desktop] - USB 16 Channel Fader Bank with CV, I2C, and MIDI.
@@ -713,6 +714,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
   https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
 [QuNexus]: https://web.archive.org/web/20241106143831/https://www.musekinetics.com/products/qunexus/
+[RokoTMIDI]: https://www.rokotmidi.com/
 [ROLI Blocks]: https://roli.com/eu/product/collection/create
 [Striso]: https://www.striso.org
 [XVI Desktop]:
