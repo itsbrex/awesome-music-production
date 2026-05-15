@@ -675,6 +675,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Lumatone] - Hexagonal isomorphic keyboard.
 - [MIDI Button Keyboard] - 5-row chromatic button accordion-style MIDI controller with built-in sounds and speakers.
 - [MIDILodica] - Breath-controlled, 3D printed, open-source MIDI device.
+- [MIDI Goblin] - Hardware MIDI tool and patch librarian with arpeggiator, step sequencer, LFO, and auto-chord features.
 - [Mimu Gloves] - Expressive wearable musical instrument.
 - [Morph] - Expressive MPE touch controller with swappable hardware interfaces.
 - [MPK mini] - Cheap and functional mini keyboard controller.
@@ -706,6 +707,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Lumatone]: https://www.lumatone.io
 [MIDI Button Keyboard]: https://www.midiaccordion.com/midikb_rev2/
 [MIDILodica]: https://github.com/XavierGerD/MIDILodica
+[MIDI Goblin]: https://www.midigoblin.com
 [Mimu Gloves]: https://mimugloves.com
 [Morph]: https://sensel.com/pages/the-sensel-morph
 [MPE]: https://roli.com/mpe
