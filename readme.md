@@ -683,6 +683,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [MPK mini] - Cheap and functional mini keyboard controller.
 - [Neova] - Expressive finger ring.
 - [NuEVI] - Electronic valve instrument MIDI controller.
+- [NuRAD] - Digital wind controller with EWI, sax, and EVI fingering options.
 - [Open Woodwind Project] - Electronic aerophone.
 - [OpenDeck] - Hardware platform to build custom MIDI controllers.
 - [QuNexus] - Small and portable MPE keyboard.
@@ -716,6 +717,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [MPK Mini]: https://www.akaipro.com/mpk-mini-mk3/
 [Neova]: https://web.archive.org/web/20231211070850/https://www.enhancia.co/
 [NuEVI]: https://berglundinstruments.com/products/
+[NuRAD]: https://berglundinstruments.com/nurad-ewi-sax-etc-fingering-instrument/
 [Open Woodwind Project]:
   https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
