@@ -399,6 +399,8 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Chords] - Text based chord progression editor.
 - [Chorushive] - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
 - [Circle of 5ths Explorer]
+- [Davide Fumai's Music Tools] - Suite of vector-math based tools for counterpoint,
+    melodic patterns, rhythm, scales, EQ, and waveform generation.
 - [Davidic] - Procedural music generator with lockable scale, chords, and rhythm.
 - [Djenerator] - A metal breakdown generator.
 - [Frequency Explorer] - A microtonal additive synthesizer + sequencer
@@ -457,6 +459,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Chorushive]: https://github.com/Greg-RG-GIT/chorushive
 [Circle of 5ths Explorer]:
     https://www.frazierpianostudio.com/resources/circle-of-fifths-explorer/
+[Davide Fumai's Music Tools]: https://sivabenepoivediamo.github.io/home/
 [Davidic]: https://bendious.itch.io/davidic
 [Djenerator]: https://djen.co/
 [Frequency Explorer]: https://github.com/ellamenop/frex
