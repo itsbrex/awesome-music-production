@@ -279,6 +279,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [NSynth Super] - Open source AI synth from the Google Magenta team.
 - [OpenUtau] - Open source vocals synthesis platform.
 - [Regency] - Multi-tiered phase distortion system.
+- [Rusted Moog] - Virtual analog synthesizer inspired by the Minimoog Model D.
 - [SAW] - A simple synthesizer with a clean UI and straightforward functionality.
 - [Soraboy VST] - Free Game Boy-style chiptune VST3 synth.
 - [Substation for VCV Rack] - Polyrhythmic, subharmonic synthesis toolkit for [VCV Rack]. $
@@ -294,6 +295,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [NSynth Super]: https://experiments.withgoogle.com/nsynth-super
 [OpenUtau]: https://www.openutau.com
 [Regency]: https://nakst.gitlab.io/regency/
+[Rusted Moog]: https://github.com/gpasquero/rusted-moog
 [SAW]: https://handmade.network/p/432/saw
 [Soraboy VST]: https://shadowsora211.itch.io/soraboy
 [Substation for VCV Rack]: https://slimechildaudio.itch.io/substation
