@@ -755,6 +755,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 ### Instruments
 
 - [Chapman Stick] - 8, 10, or 12 string fret-board tapping instrument. $
+- [Circuit Sax] - DIY mini electronic saxophone based on a Teensy 4.1.
 - [Harpejji] - Electric stringed musical instrument. $
 - [Jamcorder] - Tiny device that attaches to a digital piano to automatically capture everything you play as MIDI. $
 - [Karlax] - Multi sensor expressive Clarinet like instrument. $
@@ -770,6 +771,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [Travel Sax 2] - Authentic saxophone vibes with MIDI for exploring new musical horizons. $
 
 [Chapman Stick]: https://stick.com/
+[Circuit Sax]: https://github.com/Whackalenso/CircuitSax
 [Harpejji]: https://www.marcodi.com/products
 [inst-challenge]: https://hackaday.io/submissions/prize2018_instrument/list
 [Jamcorder]: https://jamcorder.com/
